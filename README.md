@@ -6,6 +6,6 @@ Game Of Life assessment.
  
 To run the game please select 'Run as' Java Application on GameOfLife.java class.
 
-To run the tests please select 'Ru as' JUnit Test on both of the 'Test.java' classes.
+To run the tests please select 'Run as' JUnit Test on both of the 'Test.java' classes.
 
 
